@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "es-shims/Number.isNaN",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "es-shims/Array.prototype.slice",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "es-shims/Date",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "es-shims/Object.defineProperties",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "es-shims/Array.prototype.concat",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "es-shims/parseInt",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "ljharb/npmignore",
+    "stargazers_count": 22,
+    "open_issues_count": 1,
+    "forks_count": 9
+  },
+  {
+    "full_name": "ljharb/intl-fallback-symbol",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/mock-property",
+    "stargazers_count": 7,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "inspect-js/is-async-function",
+    "stargazers_count": 17,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "ljharb/es-shim-unscopables",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/can-merge",
+    "stargazers_count": 14,
+    "open_issues_count": 13,
+    "forks_count": 2
+  },
+  {
+    "full_name": "ljharb/get-dep-tree",
+    "stargazers_count": 12,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/ls-publishers",
+    "stargazers_count": 8,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/Array.prototype.group",
+    "stargazers_count": 22,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "es-shims/Array.prototype.groupToMap",
+    "stargazers_count": 7,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "ljharb/lockfile-info",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "npm/rfcs",
+    "stargazers_count": 609,
+    "open_issues_count": 133,
+    "forks_count": 253
+  },
+  {
+    "full_name": "inspect-js/has-optional-chaining",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/jellobot",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "es-shims/Math.imul",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "es-shims/Math.log10",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "es-shims/Number.prototype.toExponential",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "ajvincent/proposal-await-dictionary",
+    "stargazers_count": 10,
+    "open_issues_count": 5,
+    "forks_count": 0
+  },
+  {
+    "full_name": "tc39/proposal-intl-enumeration",
+    "stargazers_count": 49,
+    "open_issues_count": 6,
+    "forks_count": 6
+  },
+  {
+    "full_name": "ljharb/repo-report",
+    "stargazers_count": 22,
+    "open_issues_count": 23,
+    "forks_count": 8
+  },
+  {
+    "full_name": "inspect-js/get-symbol-description",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "es-shims/Array.prototype.forEach",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 2
+  },
+  {
+    "full_name": "inspect-js/has-tostringtag",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "es-shims/Array.prototype.findLastIndex",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 1
+  }
+]
