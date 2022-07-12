@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "rricard/proposal-symbol-predicates",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "es-shims/Number.isNaN",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "npm/rfcs",
-    "stargazers_count": 611,
+    "stargazers_count": 612,
     "open_issues_count": 134,
-    "forks_count": 253
+    "forks_count": 254
   },
   {
     "full_name": "inspect-js/has-optional-chaining",
@@ -170,12 +176,6 @@
   {
     "full_name": "inspect-js/has-tostringtag",
     "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "es-shims/Array.prototype.findLastIndex",
-    "stargazers_count": 1,
     "open_issues_count": 1,
     "forks_count": 1
   }
