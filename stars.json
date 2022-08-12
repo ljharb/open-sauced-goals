@@ -109,9 +109,9 @@
   },
   {
     "full_name": "npm/rfcs",
-    "stargazers_count": 617,
+    "stargazers_count": 619,
     "open_issues_count": 137,
-    "forks_count": 256
+    "forks_count": 257
   },
   {
     "full_name": "inspect-js/has-optional-chaining",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "tc39/proposal-intl-enumeration",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 8,
     "forks_count": 7
   },
