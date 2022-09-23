@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "tapjs/tap-finished",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "tc39/proposal-symbol-predicates",
     "stargazers_count": 6,
     "open_issues_count": 1,
@@ -57,7 +63,7 @@
     "full_name": "ljharb/mock-property",
     "stargazers_count": 7,
     "open_issues_count": 1,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "inspect-js/is-async-function",
@@ -109,7 +115,7 @@
   },
   {
     "full_name": "npm/rfcs",
-    "stargazers_count": 630,
+    "stargazers_count": 633,
     "open_issues_count": 139,
     "forks_count": 260
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 1,
     "forks_count": 2
-  },
-  {
-    "full_name": "inspect-js/has-tostringtag",
-    "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 1
   }
 ]
