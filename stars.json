@@ -1,7 +1,7 @@
 [
   {
     "full_name": "tapjs/tap-finished",
-    "stargazers_count": 3,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "npm/rfcs",
-    "stargazers_count": 633,
+    "stargazers_count": 635,
     "open_issues_count": 139,
-    "forks_count": 260
+    "forks_count": 261
   },
   {
     "full_name": "inspect-js/has-optional-chaining",
