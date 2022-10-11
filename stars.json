@@ -1,5 +1,65 @@
 [
   {
+    "full_name": "minimistjs/minimist",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "ljharb/jsonify",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/js-traverse",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/node-shell-quote",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/node-buffer-equal",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/node-concat-map",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/typedarray",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/camelize",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/array-map",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/defined",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "tapjs/tap-finished",
     "stargazers_count": 5,
     "open_issues_count": 0,
@@ -79,7 +139,7 @@
   },
   {
     "full_name": "ljharb/can-merge",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 14,
     "forks_count": 3
   },
@@ -115,68 +175,8 @@
   },
   {
     "full_name": "npm/rfcs",
-    "stargazers_count": 637,
-    "open_issues_count": 142,
-    "forks_count": 261
-  },
-  {
-    "full_name": "inspect-js/has-optional-chaining",
-    "stargazers_count": 4,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ljharb/jellobot",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "es-shims/Math.imul",
-    "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "es-shims/Math.log10",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "es-shims/Number.prototype.toExponential",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "ajvincent/proposal-await-dictionary",
-    "stargazers_count": 10,
-    "open_issues_count": 5,
-    "forks_count": 0
-  },
-  {
-    "full_name": "tc39/proposal-intl-enumeration",
-    "stargazers_count": 50,
-    "open_issues_count": 4,
-    "forks_count": 7
-  },
-  {
-    "full_name": "ljharb/repo-report",
-    "stargazers_count": 22,
-    "open_issues_count": 23,
-    "forks_count": 8
-  },
-  {
-    "full_name": "inspect-js/get-symbol-description",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "es-shims/Array.prototype.forEach",
-    "stargazers_count": 2,
-    "open_issues_count": 1,
-    "forks_count": 2
+    "stargazers_count": 638,
+    "open_issues_count": 143,
+    "forks_count": 262
   }
 ]
