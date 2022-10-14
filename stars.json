@@ -1,42 +1,42 @@
 [
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "stargazers_count": 30,
+    "open_issues_count": 1,
+    "forks_count": 2
   },
   {
     "full_name": "ljharb/jsonify",
     "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "open_issues_count": 1,
+    "forks_count": 1
   },
   {
     "full_name": "ljharb/js-traverse",
-    "stargazers_count": 2,
+    "stargazers_count": 4,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
-    "full_name": "ljharb/node-shell-quote",
+    "full_name": "ljharb/shell-quote",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
-    "full_name": "ljharb/node-buffer-equal",
+    "full_name": "inspect-js/buffer-equal",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
-    "full_name": "ljharb/node-concat-map",
+    "full_name": "ljharb/concat-map",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
-    "full_name": "ljharb/typedarray",
+    "full_name": "es-shims/typedarray",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
@@ -54,7 +54,7 @@
     "forks_count": 0
   },
   {
-    "full_name": "ljharb/defined",
+    "full_name": "inspect-js/defined",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
@@ -176,7 +176,7 @@
   {
     "full_name": "npm/rfcs",
     "stargazers_count": 638,
-    "open_issues_count": 143,
-    "forks_count": 262
+    "open_issues_count": 144,
+    "forks_count": 263
   }
 ]
