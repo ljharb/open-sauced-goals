@@ -1,9 +1,9 @@
 [
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 30,
-    "open_issues_count": 1,
-    "forks_count": 2
+    "stargazers_count": 34,
+    "open_issues_count": 7,
+    "forks_count": 4
   },
   {
     "full_name": "ljharb/jsonify",
@@ -177,6 +177,6 @@
     "full_name": "npm/rfcs",
     "stargazers_count": 638,
     "open_issues_count": 144,
-    "forks_count": 263
+    "forks_count": 265
   }
 ]
