@@ -1,7 +1,7 @@
 [
   {
     "full_name": "ljharb/safe-regex-test",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 8,
     "forks_count": 4
   },
@@ -32,7 +32,7 @@
   {
     "full_name": "ljharb/shell-quote",
     "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
@@ -99,7 +99,7 @@
     "full_name": "es-shims/Date",
     "stargazers_count": 1,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "es-shims/Object.defineProperties",
