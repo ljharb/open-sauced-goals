@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ljharb/json-stable-stringify",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "ljharb/safe-regex-test",
     "stargazers_count": 4,
     "open_issues_count": 1,
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 39,
-    "open_issues_count": 8,
-    "forks_count": 4
+    "stargazers_count": 43,
+    "open_issues_count": 7,
+    "forks_count": 5
   },
   {
     "full_name": "ljharb/jsonify",
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "ljharb/js-traverse",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "es-shims/Array.prototype.group",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 1,
     "forks_count": 2
-  },
-  {
-    "full_name": "es-shims/Array.prototype.groupToMap",
-    "stargazers_count": 8,
-    "open_issues_count": 1,
-    "forks_count": 1
   }
 ]
