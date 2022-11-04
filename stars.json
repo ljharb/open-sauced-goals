@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ljharb/gopd",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "ljharb/json-stable-stringify",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 46,
+    "stargazers_count": 51,
     "open_issues_count": 7,
     "forks_count": 8
   },
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "ljharb/shell-quote",
-    "stargazers_count": 2,
+    "stargazers_count": 4,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "ljharb/camelize",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 8,
     "open_issues_count": 1,
     "forks_count": 0
-  },
-  {
-    "full_name": "es-shims/Array.prototype.group",
-    "stargazers_count": 25,
-    "open_issues_count": 1,
-    "forks_count": 2
   }
 ]
