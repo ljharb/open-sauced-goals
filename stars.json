@@ -13,7 +13,7 @@
   },
   {
     "full_name": "ljharb/safe-regex-test",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -25,14 +25,14 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 51,
+    "stargazers_count": 55,
     "open_issues_count": 7,
     "forks_count": 8
   },
   {
     "full_name": "ljharb/jsonify",
     "stargazers_count": 2,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "tc39/proposal-symbol-predicates",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "es-shims/Array.prototype.slice",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "es-shims/Date",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -134,12 +134,12 @@
   {
     "full_name": "ljharb/npmignore",
     "stargazers_count": 22,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "ljharb/intl-fallback-symbol",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 1,
     "forks_count": 0
   },
