@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "inspect-js/is-array-buffer",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "ljharb/gopd",
     "stargazers_count": 1,
     "open_issues_count": 1,
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 61,
+    "stargazers_count": 63,
     "open_issues_count": 7,
     "forks_count": 8
   },
@@ -45,7 +51,7 @@
     "full_name": "ljharb/shell-quote",
     "stargazers_count": 4,
     "open_issues_count": 1,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "inspect-js/buffer-equal",
@@ -170,12 +176,6 @@
   {
     "full_name": "ljharb/get-dep-tree",
     "stargazers_count": 13,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ljharb/ls-publishers",
-    "stargazers_count": 8,
     "open_issues_count": 1,
     "forks_count": 0
   }
