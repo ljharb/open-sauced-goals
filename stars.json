@@ -1,37 +1,79 @@
 [
   {
-    "full_name": "inspect-js/is-array-buffer",
-    "stargazers_count": 5,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ljharb/gopd",
+    "full_name": "es-shims/Set.prototype.isSubsetOf",
     "stargazers_count": 1,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
+    "full_name": "es-shims/Set.prototype.isDisjointFrom",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/Set.prototype.isSupersetOf",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/Set.prototype.intersection",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/Set.prototype.union",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/Set.prototype.difference",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/Set.prototype.symmetricDifference",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "inspect-js/is-array-buffer",
+    "stargazers_count": 6,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/gopd",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "ljharb/json-stable-stringify",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "ljharb/safe-regex-test",
-    "stargazers_count": 5,
+    "stargazers_count": 7,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "ljharb/faucet",
-    "stargazers_count": 541,
+    "stargazers_count": 542,
     "open_issues_count": 18,
     "forks_count": 25
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 69,
+    "stargazers_count": 72,
     "open_issues_count": 7,
     "forks_count": 9
   },
@@ -43,7 +85,7 @@
   },
   {
     "full_name": "ljharb/js-traverse",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -61,7 +103,7 @@
   },
   {
     "full_name": "ljharb/concat-map",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -85,7 +127,7 @@
   },
   {
     "full_name": "inspect-js/defined",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -136,47 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 1,
     "forks_count": 2
-  },
-  {
-    "full_name": "ljharb/npmignore",
-    "stargazers_count": 22,
-    "open_issues_count": 2,
-    "forks_count": 9
-  },
-  {
-    "full_name": "ljharb/intl-fallback-symbol",
-    "stargazers_count": 4,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ljharb/mock-property",
-    "stargazers_count": 7,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "inspect-js/is-async-function",
-    "stargazers_count": 17,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "ljharb/es-shim-unscopables",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ljharb/can-merge",
-    "stargazers_count": 15,
-    "open_issues_count": 14,
-    "forks_count": 3
-  },
-  {
-    "full_name": "ljharb/get-dep-tree",
-    "stargazers_count": 13,
-    "open_issues_count": 1,
-    "forks_count": 0
   }
 ]
