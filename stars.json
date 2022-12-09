@@ -1,25 +1,25 @@
 [
   {
     "full_name": "es-shims/Set.prototype.isSubsetOf",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "es-shims/Set.prototype.isDisjointFrom",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "es-shims/Set.prototype.isSupersetOf",
     "stargazers_count": 2,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
+    "full_name": "es-shims/Set.prototype.isDisjointFrom",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/Set.prototype.isSupersetOf",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "es-shims/Set.prototype.intersection",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 72,
+    "stargazers_count": 73,
     "open_issues_count": 7,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "ljharb/jsonify",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "ljharb/shell-quote",
-    "stargazers_count": 4,
+    "stargazers_count": 3,
     "open_issues_count": 1,
     "forks_count": 1
   },
