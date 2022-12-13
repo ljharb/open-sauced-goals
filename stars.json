@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ljharb/AsyncIterator.prototype",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "es-shims/Set.prototype.isSubsetOf",
     "stargazers_count": 2,
     "open_issues_count": 1,
@@ -67,14 +73,14 @@
   },
   {
     "full_name": "ljharb/faucet",
-    "stargazers_count": 542,
+    "stargazers_count": 541,
     "open_issues_count": 18,
     "forks_count": 25
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 73,
-    "open_issues_count": 7,
+    "stargazers_count": 76,
+    "open_issues_count": 6,
     "forks_count": 10
   },
   {
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "ljharb/js-traverse",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "es-shims/parseInt",
-    "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 2
   }
 ]
