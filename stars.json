@@ -19,7 +19,7 @@
   },
   {
     "full_name": "es-shims/Set.prototype.isSupersetOf",
-    "stargazers_count": 3,
+    "stargazers_count": 2,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 76,
-    "open_issues_count": 6,
+    "stargazers_count": 80,
+    "open_issues_count": 7,
     "forks_count": 10
   },
   {
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "ljharb/shell-quote",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 1,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "inspect-js/buffer-equal",
