@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "es-shims/es-set-tostringtag",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "ljharb/AsyncIterator.prototype",
     "stargazers_count": 2,
     "open_issues_count": 1,
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 82,
+    "stargazers_count": 84,
     "open_issues_count": 7,
     "forks_count": 10
   },
@@ -170,12 +176,6 @@
   {
     "full_name": "es-shims/Object.defineProperties",
     "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "es-shims/Array.prototype.concat",
-    "stargazers_count": 1,
     "open_issues_count": 1,
     "forks_count": 1
   }
