@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "inspect-js/is-array-buffer",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "es-shims/es-set-tostringtag",
     "stargazers_count": 2,
     "open_issues_count": 1,
@@ -54,7 +60,7 @@
     "forks_count": 0
   },
   {
-    "full_name": "inspect-js/is-array-buffer",
+    "full_name": "inspect-js/is-array-buffer-tmp",
     "stargazers_count": 6,
     "open_issues_count": 1,
     "forks_count": 0
@@ -85,8 +91,8 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 89,
-    "open_issues_count": 7,
+    "stargazers_count": 93,
+    "open_issues_count": 8,
     "forks_count": 11
   },
   {
@@ -128,8 +134,8 @@
   {
     "full_name": "ljharb/camelize",
     "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "open_issues_count": 1,
+    "forks_count": 1
   },
   {
     "full_name": "ljharb/array-map",
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 1,
     "forks_count": 3
-  },
-  {
-    "full_name": "es-shims/Object.defineProperties",
-    "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 1
   }
 ]
