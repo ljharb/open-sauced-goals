@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "tc39/proposal-get-intrinsic",
+    "stargazers_count": 20,
+    "open_issues_count": 9,
+    "forks_count": 2
+  },
+  {
+    "full_name": "ljharb/stop-iteration-iterator",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "inspect-js/is-array-buffer",
     "stargazers_count": 11,
     "open_issues_count": 0,
@@ -73,7 +85,7 @@
   },
   {
     "full_name": "ljharb/json-stable-stringify",
-    "stargazers_count": 8,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -85,13 +97,13 @@
   },
   {
     "full_name": "ljharb/faucet",
-    "stargazers_count": 541,
+    "stargazers_count": 542,
     "open_issues_count": 18,
     "forks_count": 25
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 102,
+    "stargazers_count": 110,
     "open_issues_count": 10,
     "forks_count": 12
   },
@@ -158,7 +170,7 @@
   {
     "full_name": "tc39/proposal-symbol-predicates",
     "stargazers_count": 7,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "es-shims/Array.prototype.slice",
-    "stargazers_count": 2,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "es-shims/Date",
-    "stargazers_count": 2,
-    "open_issues_count": 1,
-    "forks_count": 3
   }
 ]
