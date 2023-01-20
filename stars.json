@@ -1,8 +1,8 @@
 [
   {
     "full_name": "tc39/proposal-get-intrinsic",
-    "stargazers_count": 20,
-    "open_issues_count": 9,
+    "stargazers_count": 22,
+    "open_issues_count": 4,
     "forks_count": 2
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 110,
+    "stargazers_count": 114,
     "open_issues_count": 10,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "ljharb/jsonify",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "ljharb/js-traverse",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -170,7 +170,7 @@
   {
     "full_name": "tc39/proposal-symbol-predicates",
     "stargazers_count": 7,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
