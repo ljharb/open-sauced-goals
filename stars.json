@@ -1,9 +1,9 @@
 [
   {
     "full_name": "tc39/proposal-get-intrinsic",
-    "stargazers_count": 23,
+    "stargazers_count": 25,
     "open_issues_count": 4,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "ljharb/stop-iteration-iterator",
@@ -75,7 +75,7 @@
     "full_name": "inspect-js/is-array-buffer-tmp",
     "stargazers_count": 6,
     "open_issues_count": 1,
-    "forks_count": 0
+    "forks_count": -1
   },
   {
     "full_name": "ljharb/gopd",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 10,
     "forks_count": 14
   },
@@ -123,7 +123,7 @@
     "full_name": "ljharb/shell-quote",
     "stargazers_count": 4,
     "open_issues_count": 1,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "inspect-js/buffer-equal",
