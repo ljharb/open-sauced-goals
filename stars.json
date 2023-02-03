@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "es-shims/ArrayBuffer.prototype.detached",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/SuppressedError",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "tc39/proposal-get-intrinsic",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 4,
     "forks_count": 3
   },
@@ -85,7 +97,7 @@
   },
   {
     "full_name": "ljharb/json-stable-stringify",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -103,7 +115,7 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 119,
+    "stargazers_count": 121,
     "open_issues_count": 10,
     "forks_count": 14
   },
@@ -122,7 +134,7 @@
   {
     "full_name": "ljharb/shell-quote",
     "stargazers_count": 4,
-    "open_issues_count": 1,
+    "open_issues_count": 5,
     "forks_count": 3
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "tc39/proposal-symbol-predicates",
-    "stargazers_count": 7,
-    "open_issues_count": 3,
-    "forks_count": 2
-  },
-  {
-    "full_name": "es-shims/Number.isNaN",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
