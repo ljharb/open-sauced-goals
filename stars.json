@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "es-shims/ArrayBuffer.prototype.transferToFixedLength",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/ArrayBuffer.prototype.transfer",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "es-shims/ArrayBuffer.prototype.detached",
     "stargazers_count": 2,
     "open_issues_count": 1,
@@ -13,7 +25,7 @@
   },
   {
     "full_name": "tc39/proposal-get-intrinsic",
-    "stargazers_count": 26,
+    "stargazers_count": 28,
     "open_issues_count": 4,
     "forks_count": 3
   },
@@ -97,9 +109,9 @@
   },
   {
     "full_name": "ljharb/json-stable-stringify",
-    "stargazers_count": 15,
+    "stargazers_count": 19,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "ljharb/safe-regex-test",
@@ -115,8 +127,8 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 121,
-    "open_issues_count": 10,
+    "stargazers_count": 124,
+    "open_issues_count": 11,
     "forks_count": 14
   },
   {
@@ -157,25 +169,13 @@
   },
   {
     "full_name": "ljharb/camelize",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "ljharb/array-map",
     "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "inspect-js/defined",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "tapjs/tap-finished",
-    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   }
