@@ -25,7 +25,7 @@
   },
   {
     "full_name": "tc39/proposal-get-intrinsic",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "open_issues_count": 4,
     "forks_count": 3
   },
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "ljharb/json-stable-stringify",
-    "stargazers_count": 19,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 124,
-    "open_issues_count": 11,
+    "stargazers_count": 130,
+    "open_issues_count": 5,
     "forks_count": 14
   },
   {
