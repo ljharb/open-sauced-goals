@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "es-shims/iterator-helpers",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "es-shims/ArrayBuffer.prototype.transferToFixedLength",
     "stargazers_count": 1,
     "open_issues_count": 1,
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 130,
+    "stargazers_count": 133,
     "open_issues_count": 5,
-    "forks_count": 14
+    "forks_count": 13
   },
   {
     "full_name": "ljharb/jsonify",
@@ -172,11 +178,5 @@
     "stargazers_count": 6,
     "open_issues_count": 1,
     "forks_count": 1
-  },
-  {
-    "full_name": "ljharb/array-map",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
