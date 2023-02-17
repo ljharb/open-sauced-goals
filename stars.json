@@ -117,7 +117,7 @@
     "full_name": "ljharb/json-stable-stringify",
     "stargazers_count": 18,
     "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "ljharb/safe-regex-test",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 133,
+    "stargazers_count": 138,
     "open_issues_count": 5,
     "forks_count": 13
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "ljharb/camelize",
-    "stargazers_count": 6,
+    "stargazers_count": 8,
     "open_issues_count": 1,
     "forks_count": 1
   }
