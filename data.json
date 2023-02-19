@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "ljharb/object-keys",
+    "stargazers_count": 43,
+    "open_issues_count": 0,
+    "forks_count": 15
+  },
+  {
+    "full_name": "es-shims/Set.prototype.intersection",
+    "stargazers_count": 5,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/Set.prototype.isSupersetOf",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/Set.prototype.isDisjointFrom",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "es-shims/es-set-tostringtag",
     "stargazers_count": 2,
     "open_issues_count": 1,
