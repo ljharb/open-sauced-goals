@@ -1,5 +1,47 @@
 [
   {
+    "full_name": "es-shims/es-set-tostringtag",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/AsyncIterator.prototype",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/Set.prototype.isSubsetOf",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ljharb/es-abstract",
+    "stargazers_count": 95,
+    "open_issues_count": 17,
+    "forks_count": 34
+  },
+  {
+    "full_name": "nvm-sh/nvm",
+    "stargazers_count": 64799,
+    "open_issues_count": 372,
+    "forks_count": 6905
+  },
+  {
+    "full_name": "airbnb/javascript",
+    "stargazers_count": 131628,
+    "open_issues_count": 158,
+    "forks_count": 24953
+  },
+  {
+    "full_name": "enzymejs/enzyme",
+    "stargazers_count": 19970,
+    "open_issues_count": 294,
+    "forks_count": 2102
+  },
+  {
     "full_name": "ljharb/qs",
     "stargazers_count": 7653,
     "open_issues_count": 69,
