@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "ljharb/qs",
+    "stargazers_count": 7653,
+    "open_issues_count": 69,
+    "forks_count": 727
+  },
+  {
+    "full_name": "inspect-js/is-array-buffer",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "ljharb/stop-iteration-iterator",
+    "stargazers_count": 4,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "tc39/proposal-get-intrinsic",
+    "stargazers_count": 29,
+    "open_issues_count": 4,
+    "forks_count": 3
+  },
+  {
     "full_name": "es-shims/DisposableStack",
     "stargazers_count": 2,
     "open_issues_count": 1,
