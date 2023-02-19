@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "es-shims/DisposableStack",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/ArrayBuffer.prototype.detached",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/SuppressedError",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "es-shims/ArrayBuffer.prototype.transfer",
     "stargazers_count": 1,
     "open_issues_count": 1,
