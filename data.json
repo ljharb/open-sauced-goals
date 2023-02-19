@@ -1,8 +1,26 @@
 [
   {
+    "full_name": "es-shims/ArrayBuffer.prototype.transfer",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/ArrayBuffer.prototype.transferToFixedLength",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "es-shims/iterator-helpers",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "npm/cli",
-    "stargazers_count": 6846,
-    "open_issues_count": 544,
-    "forks_count": 2451
+    "stargazers_count": 6857,
+    "open_issues_count": 546,
+    "forks_count": 2454
   }
 ]

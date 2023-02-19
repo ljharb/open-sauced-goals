@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "es-shims/DisposableStack",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "es-shims/iterator-helpers",
     "stargazers_count": 3,
     "open_issues_count": 1,
@@ -133,8 +139,8 @@
   },
   {
     "full_name": "minimistjs/minimist",
-    "stargazers_count": 138,
-    "open_issues_count": 5,
+    "stargazers_count": 139,
+    "open_issues_count": 6,
     "forks_count": 13
   },
   {
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "ljharb/js-traverse",
-    "stargazers_count": 10,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -171,12 +177,6 @@
     "full_name": "es-shims/typedarray",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "ljharb/camelize",
-    "stargazers_count": 8,
-    "open_issues_count": 1,
     "forks_count": 1
   }
 ]
